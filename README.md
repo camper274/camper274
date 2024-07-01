@@ -80,14 +80,9 @@ Balıkesir, Türkiye
 **Türkçe** - Ana Dil  
 **İngilizce** - Orta Seviye  
 
-## 📊 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camper274&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camper274&layout=compact&theme=radical)
-
 ## 📫 Bana Ulaşın
 - [LinkedIn](https://www.linkedin.com/in/gokhan-bahadir)
-- [Twitter](https://twitter.com/gokhan-bahadir)
+- [Twitter](https://twitter.com/camper274)
 
 ## 🔗 Projelerim
 - [deltafix.com.tr](https://deltafix.com.tr)
