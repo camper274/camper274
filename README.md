@@ -13,7 +13,7 @@ Yazılım geliştiricisi olarak kullanıcı deneyimi ve UI/UX'i önemseyerek kod
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-React-333333?style=flat&logo=vue)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
