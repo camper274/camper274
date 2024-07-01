@@ -1,8 +1,7 @@
 # Merhaba! 👋 Ben Gökhan Bahadır
 
-Doğum Tarihi: 03/06/1995  
-Uyruk: Türk  
-Adres: Gürsel Mah. Bahçeler Cad. No: 51/A K:2 D:8 Kağıthane 34403, İstanbul, Türkiye  
+Doğum Tarihi: 04/06/1995
+Adres: İstanbul, Türkiye  
 📧 Email: [gokhan.bahadir.36@gmail.com](mailto:gokhan.bahadir.36@gmail.com)  
 📞 Telefon: (+90) 5394852066  
 
