@@ -22,45 +22,10 @@ Yazılım geliştiricisi olarak kullanıcı deneyimi ve UI/UX'i önemseyerek kod
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-## 🌟 İş Deneyimleri
+## 🌟 Makaleler
 
-### Delta Yenileme Merkezi ve Bilişim Teknolojileri A.Ş
-**Frontend Developer**  
-*01/10/2023 – Günümüz*  
-İstanbul, Türkiye  
-**Sektör:** Finansal ve Sigorta Aktiviteleri  
-**Görev ve Sorumluluklar:**  
-Delta Servis, kurumsal anlaşmalar çerçevesinde sektörün önde gelen markaları için satış sonrası hizmet vermektedir. Gelişen teknolojilerle birlikte, ürün portföyünü akıllı teknolojileri kapsayacak şekilde genişletmiştir. 2020'den bu yana, robot süpürgeler, elektrikli scooter'lar, hava fritözleri, akıllı saatler ve daha birçok akıllı teknolojiyi hizmete sunmaktadır.
-
-### Akinon
-**Frontend Developer**  
-*01/04/2021 – 01/09/2023*  
-İstanbul, Türkiye  
-**Sektör:** Finansal ve Sigorta Aktiviteleri  
-**Görev ve Sorumluluklar:**  
-Akinon, bulut tabanlı başsız ticaret platformudur ve işletmelere esnek çözümler sunarak bütünsel müşteri deneyimleri yaratmalarını sağlar.
-
-### Glomil Teknoloji
-**Frontend Developer**  
-*01/05/2021 – 01/04/2022*  
-İstanbul, Türkiye  
-**Görev ve Sorumluluklar:**  
-GLOMİL, iş yazılımı geliştirmeye odaklanmış bir şirkettir ve belediye sistemleri, savunma sanayi Ar-Ge projeleri ve yüksek kapasiteli iş uygulamaları gibi çeşitli alanlarda hizmet vermektedir.
-
-### Cameralyze
-**Frontend Developer**  
-*01/01/2021 – 01/05/2021*  
-İstanbul, Türkiye  
-**Görev ve Sorumluluklar:**  
-Ürünlerimiz, yapay zeka çözümlerini fiziksel konumlarınıza, ürünlerinize ve ziyaretçilerinize getirir. İş verimliliğinizi artırın ve otomatik öneriler alın.
-
-### KREA Digital
-**Frontend Developer**  
-*01/02/2019 – 01/01/2021*  
-İstanbul, Türkiye  
-**Görev ve Sorumluluklar:**  
-KREA.Digital, omnichannel WAAS platformu olup e-posta, push, SMS, mobil mesajlaşma, web site takibi, analitik, veri segmentasyonu ve e-CRM entegrasyonunu sağlar.
-
+- [JavaScript ile Eğlenceli Bir Adım: React, Vue ve Angular Macerası!](https://medium.com/@camper274/javascript-ile-e%C4%9Flenceli-bir-ad%C4%B1m-react-vue-ve-angular-maceras%C4%B1-0402ed1b0a65)
+- [Web Sayfalarının Yüklenme Sürecinde Hız ve Etkileşim](https://medium.com/@camper274/web-sayfalar%C4%B1n%C4%B1n-y%C3%BCklenme-s%C3%BCrecinde-h%C4%B1z-ve-etkile%C5%9Fim-window-onload-vs-document-ready-f07b00b39d9b)
 ## 🎓 Eğitim ve Staj
 **Sprint Technology**  
 Frontend Developer - Staj  
