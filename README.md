@@ -26,11 +26,8 @@ Yazılım geliştiricisi olarak kullanıcı deneyimi ve UI/UX'i önemseyerek kod
 
 - [JavaScript ile Eğlenceli Bir Adım: React, Vue ve Angular Macerası!](https://medium.com/@camper274/javascript-ile-e%C4%9Flenceli-bir-ad%C4%B1m-react-vue-ve-angular-maceras%C4%B1-0402ed1b0a65)
 - [Web Sayfalarının Yüklenme Sürecinde Hız ve Etkileşim](https://medium.com/@camper274/web-sayfalar%C4%B1n%C4%B1n-y%C3%BCklenme-s%C3%BCrecinde-h%C4%B1z-ve-etkile%C5%9Fim-window-onload-vs-document-ready-f07b00b39d9b)
-## 🎓 Eğitim ve Staj
-**Sprint Technology**  
-Frontend Developer - Staj  
-*01/01/2019 – 31/03/2019*  
-İstanbul, Türkiye  
+
+## 🎓 Eğitim
 
 **Near East University (NEU)**  
 Bilgisayar Mühendisliği - Lisans  
